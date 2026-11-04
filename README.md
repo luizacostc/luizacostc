@@ -6,11 +6,11 @@
 
 <img src="assets/avatar-pixel-vermelho.png" alt="Avatar redondo em pixel art, com cabelo preto cacheado, óculos e headset vermelho" width="180" />
 
-# Oi, eu sou a Luíza! ❤️
+# Oi, eu sou a Luiza! ❤️
 
 *Aprendendo programação, um algoritmo de cada vez.*
 
-![C](https://img.shields.io/badge/C-b51a37?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-b51a37?style=for-the-badge)
 ![Algoritmos](https://img.shields.io/badge/Algoritmos-240b19?style=for-the-badge&logoColor=white)
 ![Estruturas de dados](https://img.shields.io/badge/Estruturas_de_dados-89172c?style=for-the-badge&logoColor=white)
 
@@ -42,3 +42,5 @@ Estou começando a construir meu portfólio e estudando **programação em C**, 
 ![Learning in public](https://img.shields.io/badge/%3C%2F%3E-learning_in_public-b51a37?style=flat-square&labelColor=240b19)
 
 </div>
+
+> **Antes de publicar:** confira os links dos projetos acima. Remova temporariamente os que ainda não existirem no GitHub para evitar erro 404.
