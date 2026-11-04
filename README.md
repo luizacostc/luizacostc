@@ -43,4 +43,4 @@ Estou começando a construir meu portfólio e estudando **programação em C**, 
 
 </div>
 
-> **Antes de publicar:** confira os links dos projetos acima. Remova temporariamente os que ainda não existirem no GitHub para evitar erro 404.
+
