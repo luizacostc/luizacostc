@@ -6,7 +6,7 @@
 
 <img src="assets/avatar-pixel-vermelho.png" alt="Avatar redondo em pixel art, com cabelo preto cacheado, óculos e headset vermelho" width="180" />
 
-# Oi, eu sou a Luiza! ❤️
+# Oi, eu sou a Luíza! ❤️
 
 *Aprendendo programação, um algoritmo de cada vez.*
 
